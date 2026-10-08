@@ -5,3 +5,5 @@ print("Resultado:", resultado)
 resta = numero1 - numero2
 print("Suma:", resultado )
 print("Resta:", resta)
+multiplicacion= numero1 * numero2
+print("Multiplicacion:", multiplicacion)
